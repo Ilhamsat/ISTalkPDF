@@ -1,0 +1,7 @@
+
+
+//for auth
+npm install @kinde-oss/kinde-auth-nextjs
+
+//tRPC
+npm install @trpc/server @trpc/client @trpc/react-query @trpc/next @tanstack/react-query zod
