@@ -11,6 +11,9 @@ npm install Prisma
 npx prisma init
 //command if u wanna see db prisma
 npx prisma studio
+//command if u wanna change model in schema.prisma
+npx prisma db push
+npx prisma generate
 
 //Using PlanetScale for Database but thi platform need CC or Visa
 //If u don't have CC or Visa u can use Neon for database
