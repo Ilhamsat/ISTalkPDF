@@ -17,3 +17,16 @@ npx prisma generate
 
 //Using PlanetScale for Database but thi platform need CC or Visa
 //If u don't have CC or Visa u can use Neon for database
+
+
+//PdfReaderRenderer use react-pdf
+https://react-pdf.org/
+
+//Library for drag and drop file pdf for upload
+npm install react-dropzone
+
+//We need Amazon S3 for uploading file but need CC, so for beginner and this project will use uploadthing.com
+npm install uploadthing @uploadthing/react
+
+//Resize for pdf file
+npm i react-resize-detector
